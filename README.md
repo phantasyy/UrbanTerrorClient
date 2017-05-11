@@ -1,2 +1,2 @@
 # UrT-Server-Mod
-Server mod combined from numerous of other source codes.
+Urban Terror 4.3.2 Server mod combined from numerous of other source codes.
